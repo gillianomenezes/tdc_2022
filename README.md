@@ -12,7 +12,7 @@ Que Python eh uma linguagem facil e cheia de recursos, voce ja sabe. Agora, como
 
 ### Palestrante
 
-Gilliano Menezes
+[Gilliano Menezes](https://twitter.com/gillianomenezes)
 
 ### Links
 
